@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+.py[cod]
+tmp/
+.idea/
+*.zip
+.pytest_cache/
